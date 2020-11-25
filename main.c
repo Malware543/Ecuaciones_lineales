@@ -5,11 +5,11 @@
  * @version 1.0.0
  * @date 23 de noviembre de 2020
  * @author Elias Salazar Reyes
- * @brief Programa para graficar excuaciones lineales.
+ * @brief Programa para graficar ecuaciones lineales.
 */
 
 /**
- * @brief Funcion principal
+ * @brief Función principal
  * @return void.
 */
 int main(){
